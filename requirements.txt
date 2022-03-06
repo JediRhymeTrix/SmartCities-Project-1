@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pillow
+python-dotenv
+scikit-learn
+tensorflow
+visualkeras
