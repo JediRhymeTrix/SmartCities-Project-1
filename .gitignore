@@ -133,3 +133,6 @@ kernel.json
 
 # VSCode
 .vscode/
+
+# Model artifacts
+*.h5
