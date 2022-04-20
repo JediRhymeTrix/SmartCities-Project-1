@@ -136,3 +136,4 @@ kernel.json
 
 # Model artifacts
 *.h5
+*.pkl
