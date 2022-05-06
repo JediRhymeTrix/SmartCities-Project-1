@@ -1,7 +1,6 @@
 numpy
 matplotlib
 pillow
-python-dotenv
+opencv-python
 scikit-learn
 tensorflow
-visualkeras
