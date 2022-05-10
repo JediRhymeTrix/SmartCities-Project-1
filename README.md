@@ -12,8 +12,16 @@ Vedant Vohra
 
     - assets/ # Contains all the assets
     - data/ # Contains the data files
+        -> /sample_data/ # Contains a small subset of the dataset for testing the model ("grading script")
     - models/ # Contains the trained models
     - notebooks/ # Contains the main project notebook(s) and the grading notebook
+
+### The 'Notebooks' Directory
+
+This directory contains all the source code in the form of Jupyter notebooks.
+1. `reid_train.ipynb` - This is the notebook used for training the pedestrian re-identification model
+2. `reid_pipeline.ipynb` - This is the notebook containing the end-to-end pipeline for pedestrian detection and  re-identification
+3. `test.ipynb` - This is the "grading script". It is used to test the model on a small subset of the dataset.
 
 ## How to Run
 
@@ -38,6 +46,6 @@ Vedant Vohra
 3. Once the container is up and running, you will see a URL displayed in the terminal. Click on it to open a jupyter session in the browser.
 4. Open the notebooks in the `notebooks/` directory in Jupyter.
 
-### To run the grading script/notebook
+## *** To run the grading script/notebook ***
 
-After all the above steps have been completed, run the `notebooks/test.ipynb` notebook in Jupyter.
+### After all the above steps have been completed, run the `notebooks/test.ipynb` notebook in Jupyter.

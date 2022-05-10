@@ -1,7 +1,13 @@
 # Ignore
 .vscode/
-.data/*
-.models/*.h5
+.DS_Store
+.env
+data/*
+models/*
+*.pkl
+kernel.json
 
 # Allow
 !data/download.sh
+!data/sample_data
+!models/siamese_weights.h5
