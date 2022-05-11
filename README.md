@@ -16,6 +16,8 @@ Vedant Vohra
     - models/ # Contains the trained models
     - notebooks/ # Contains the main project notebook(s) and the grading notebook
 
+**NOTE: **
+
 ### The 'Notebooks' Directory
 
 This directory contains all the source code in the form of Jupyter notebooks.
