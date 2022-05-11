@@ -16,7 +16,8 @@ Vedant Vohra
     - models/ # Contains the trained models
     - notebooks/ # Contains the main project notebook(s) and the grading notebook
 
-**NOTE: The dataset ([P-DESTRE](http://p-destre.di.ubi.pt/)) is too large (69.4GB) to include in the zip file, so it has to be downloaded separately. Please refer to Step 1 in the ['How to Run' section](#how-to-run) below for instructions.**
+**NOTE: The dataset ([P-DESTRE](http://p-destre.di.ubi.pt/)) is too large (69.4GB) to include in the zip file, so it has to be downloaded separately. Please refer to Step 1 in the ['How to Run' section](#how-to-run) below for instructions.** \
+**A small subset of the dataset (`data/sample_data`) has been included in the zip file and can be used to run the [grading script](#to-run-the-grading-script-notebook), without having to download the entire dataset**
 
 ### The 'Notebooks' Directory
 
