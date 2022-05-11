@@ -4,4 +4,4 @@ pillow
 opencv-python
 scikit-learn
 tensorflow
-dotenv
+python-dotenv
