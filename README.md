@@ -2,7 +2,7 @@
 
 UAV Tracking for Smart Cities
 
-## Team 12 (LSV)
+## Team 9 (LSV)
 
 Darshan Lakhankiya \
 Sneha Seenuvasavarathan \
